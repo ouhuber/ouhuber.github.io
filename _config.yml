@@ -5,14 +5,14 @@ header-img: img/post-bg-desk.jpg
 email: 2063911070@qq.com
 description: "follow my heart "
 keyword: "I'm a .."
-url: "https://klovien.github.io"          # your host, for absolute URL
+url: "https://ouhuber.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/ouhuber/ouhuber.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you're going to be!"
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-someone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "三叶草国际语维基词典",
+        title: "暂未更新",
         href: "https://github.com/klovien/klovien.github.io/wiki"
     },{
-        title: "三叶草国际语互动社区",
+        title: "暂未更新",
         href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
     },{
-        title: "知乎：人造国际语",
+        title: "暂未更新",
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
     },{
-        title: "知乎：Henri_Jambo",
+        title: "暂未更新",
         href: "https://www.zhihu.com/people/henry-jiang-78" 
     }
 ]
