@@ -12,7 +12,7 @@ github_repo: "https://github.com/ouhuber/ouhuber.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "额，以后更新，添加"
-sidebar-avatar: /img/about-someone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/1594979707110.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
