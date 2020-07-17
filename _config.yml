@@ -1,8 +1,8 @@
 # Site settings
-title: ouhuber
+title: ouhuber(不接受外号！)
 SEOTitle: my a bit notes
 header-img: img/post-bg-desk.jpg
-email: 2063911070@qq.com -or- w2063ii92163.
+email: 2063911070@qq.com -or- w2063ii9@163.com
 description: "follow my heart "
 keyword: "I'm a .."
 url: "https://ouhuber.github.io"          # your host, for absolute URL
@@ -11,15 +11,15 @@ github_repo: "https://github.com/ouhuber/ouhuber.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "额，以后更新，添加"
+sidebar-about-description: "额，我的微信头像，猩猩比利"
 sidebar-avatar: /img/1594979707110.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
-# SNS settings
+#SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
+#zhihu_username:      ou - c
 # github_username:    qiubaiying
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "暂未更新",
-        href: "https://github.com/klovien/klovien.github.io/wiki"
+        title: "英语（雅思，考研，商务，提取码：9igx）",
+        href: "https://pan.baidu.com/s/1DizWTbYCfl1-n6Vhf-3Cow"
     },{
-        title: "暂未更新",
-        href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
+        title: "电脑优化软件(提取码：92sz)",
+        href: "https://pan.baidu.com/s/13exyy-uLfJzjxmxkHIk29g"
     },{
-        title: "暂未更新",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+        title: "C语言一点材料（提取码：eq7x）",
+        href: "https://pan.baidu.com/s/1PYEZxguGyPvk9cVHg1YASA"
     },{
-        title: "暂未更新",
-        href: "https://www.zhihu.com/people/henry-jiang-78" 
+        title: "卸载和清理电脑的（提取码：k32d）",
+        href: "https://pan.baidu.com/s/1NkgcU_qvY2j80-6ysZs4Ag" 
     }
 ]
