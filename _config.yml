@@ -1,10 +1,10 @@
 # Site settings
 title: ouhuber
-SEOTitle: my a bit notes
+SEOTitle: my a bit notes（is't a little）
 header-img: img/1594979707464.jpg
 email: 2063911070@qq.com -or- w2063ii9@163.com
 description: "follow my heart "
-keyword: "I'm a .."
+keyword: "I'm a monkey beacuse of we are.."
 url: "https://ouhuber.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ouhuber/ouhuber.github.io.git" # you code repository
