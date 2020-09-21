@@ -11,7 +11,7 @@ github_repo: "https://github.com/ouhuber/ouhuber.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "额，我的微信头像，猩猩比利"
+sidebar-about-description: "额，我的微信/QQ头像，猩猩比利"
 sidebar-avatar: /img/1594979707110.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
